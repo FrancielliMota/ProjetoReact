@@ -1,4 +1,4 @@
-# REPOSITÓRIO PARA DESENVOLVIMENTO DE PROJETOS EM JAVASCRIPT:
+# REPOSITÓRIO PARA DESENVOLVIMENTO DE PROJETOS EM REACT;
 Resolucao dos exercícios propostos na disciplina de "Laboratório de Engenharia de Software", pertencente á grade curricular do 5º termo do curso de Análise e Desenvolvimento de Sistemas da FATEC de Presidente Prudente-SP.
 
 🙏 Facilitadora: Prof.ª Dr.ª Ana Carolina Nicolosi da Rocha Gracioso.
