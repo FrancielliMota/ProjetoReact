@@ -1,10 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import DateTimePicker from './components/DateTimePicker'; 
+import MinhasRotas from './minhasRotas';
 
 ReactDOM.render(
   <React.StrictMode>
-    <DateTimePicker />
+    <MinhasRotas />
   </React.StrictMode>,
   document.getElementById('root')
 );
